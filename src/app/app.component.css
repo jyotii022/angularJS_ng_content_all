@@ -1,3 +1,4 @@
-p {
-  font-family: Lato;
+.container {
+  background-color: #f3f3f3;
+  padding: 20px;
 }
